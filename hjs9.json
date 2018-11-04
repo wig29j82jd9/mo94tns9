@@ -1,5 +1,5 @@
 {
-    "open":"yes",
+    "open":"no",
     "platform":"com.tfx.test",
     "exit":"no",
     "pre_url":"http://htmlpreview.github.io/?",
